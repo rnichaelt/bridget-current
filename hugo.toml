@@ -1,9 +1,9 @@
 # timeout
 timeout = "1200s"
 # your website url
-baseURL = 'https://rnichaelt.github.io/bridget-current/'
+baseURL = 'https://bridget-current.vercel.app/'
 # website title
-title = 'MICHAEL'
+title = 'MICHAEL THAN'
 # don't touch this
 disableKinds = ["section", "taxonomy", "term", "home"]
 # robots.txt

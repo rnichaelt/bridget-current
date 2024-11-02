@@ -12,14 +12,14 @@ _build:
   publishResources: false
 ---
 
-Bridget is a _minimal_ Hugo theme designed for photographers/visual artists, powered by <u>[Solid.js](https://www.solidjs.com)</u>.
+Photographer based in Vancouver, BC. Photos taken for my own amusement. Mix of film and digital. Any questions, just ask.
 
-The inspiration for this theme came from a video by <u>[Hyperlexed](https://www.youtube.com/@Hyperplexed)</u>, which can be found <u>[here](https://www.youtube.com/watch?v=Jt3A2lNN2aE)</u>. Initially, it was developed using no third-party dependencies. However, after website designer <u>[Tyler McRobert](https://tylermcrobert.com)</u> made the source code publicly available, I realized that I have invented many unnecessary wheels, and this project was modified to porting the original design to Hugo while focusing on _performance_.
+[E-mail ↗](mailto:g3apples@gmail.com)<br>
+[Instagram ↗](https://www.instagram.com/rnichael/)
 
-Once again, great shout out to <u>[Tyler McRobert](https://tylermcrobert.com)</u> for his inspiration to this project.
+I was inspired by the experience of Bridget BAKER's portfolio and was pleased to find out it was open-source. I highly encourage you to check out her work <u>[here](https://bridget.pictures/)</u>.
 
-[GitHub Repo ↗](https://github.com/Sped0n/bridget)
-
+Modified site design by <u>[Spedon](https://github.com/Sped0n)</u><br>
 Original site design by <u>[Tyler McRobert](https://tylermcrobert.com)</u>.
 
-&copy; {{< year >}} <u>[Spedon](https://github.com/Sped0n)</u> | Built with Hugo
+&copy; {{< year >}} Michael THAN. All rights reserved.
