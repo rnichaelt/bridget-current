@@ -1,12 +1,12 @@
 ---
 type: _default
 layout: single
-url: /WashingtonCopy/
+url: /Digital/
 menu:
   main:
-    weight: 4
-    identifier: WashingtonCopy
-    title: WashingtonCopy
+    weight: 2
+    identifier: Digital
+    title: Digital
 unifiedAlt: '© Michael Than'
 _build:
   publishResources: false
