@@ -1,7 +1,7 @@
 # timeout
 timeout = "1200s"
 # your website url
-baseURL = 'https://bridget-current.vercel.app/'
+baseURL = 'https://www.rnichael.com/'
 # website title
 title = 'MICHAEL THAN'
 # don't touch this

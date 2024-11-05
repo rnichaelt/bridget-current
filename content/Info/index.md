@@ -11,7 +11,6 @@ unifiedAlt: ''
 _build:
   publishResources: false
 ---
-
 Photographer based in Vancouver, BC. Photos taken for my own amusement. Mix of film and digital. Any questions, just ask.
 
 [E-mail ↗](mailto:g3apples@gmail.com)<br>
