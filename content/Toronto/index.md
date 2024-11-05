@@ -1,12 +1,12 @@
 ---
 type: _default
 layout: single
-url: /Toronto/
+url: /toronto/
 menu:
   main:
     weight: 4
-    identifier: Toronto
-    title: Toronto
+    identifier: toronto
+    title: toronto
 unifiedAlt: '© Michael Than'
 _build:
   publishResources: false

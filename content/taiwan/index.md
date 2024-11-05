@@ -1,13 +1,13 @@
 ---
 type: _default
 layout: single
-url: /erwitt/
+url: /taiwan/
 menu:
   main:
     weight: 3
-    identifier: Erwitt
-    title: Erwitt
-unifiedAlt: '© Elliott Erwitt'
+    identifier: taiwan
+    title: taiwan
+unifiedAlt: '© Michael Than'
 _build:
   publishResources: false
 ---
