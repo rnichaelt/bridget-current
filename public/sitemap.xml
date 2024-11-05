@@ -2,8 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/Info/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/Japan/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/Taiwan/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/Toronto/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://www.rnichael.com/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://www.rnichael.com/Info/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://www.rnichael.com/Japan/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://www.rnichael.com/Taiwan/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://www.rnichael.com/Toronto/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
