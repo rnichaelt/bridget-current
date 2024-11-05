@@ -2,8 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://www.rnichael.com/Info/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://www.rnichael.com/info/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://www.rnichael.com/japan/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://www.rnichael.com/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://www.rnichael.com/taiwan/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://www.rnichael.com/Toronto/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://www.rnichael.com/toronto/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
