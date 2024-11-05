@@ -5,8 +5,8 @@ url: /
 menu:
   main:
     weight: 1
-    identifier: lately
-    title: lately
+    identifier: Featured
+    title: Featured
 unifiedAlt: '© Michael Than'
 _build:
   publishResources: false

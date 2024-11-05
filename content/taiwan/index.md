@@ -1,12 +1,12 @@
 ---
 type: _default
 layout: single
-url: /taiwan/
+url: /Taiwan/
 menu:
   main:
     weight: 3
-    identifier: taiwan
-    title: taiwan
+    identifier: Taiwan
+    title: Taiwan
 unifiedAlt: '© Michael Than'
 _build:
   publishResources: false
