@@ -4,7 +4,7 @@ layout: single
 url: /Toronto/
 menu:
   main:
-    weight: 4
+    weight: 2
     identifier: Toronto
     title: Toronto
 unifiedAlt: '© Michael Than'
